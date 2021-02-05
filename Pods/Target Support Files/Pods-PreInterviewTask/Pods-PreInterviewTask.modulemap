@@ -1,0 +1,6 @@
+framework module Pods_PreInterviewTask {
+  umbrella header "Pods-PreInterviewTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
